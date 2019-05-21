@@ -1,0 +1,11 @@
+C:\Users\aka18\OneDrive\Desktop\Fish Store Simulator\FishStore Simulator\FishStore Simulator\bin\Debug\netcoreapp2.1\FishStore Simulator.deps.json
+C:\Users\aka18\OneDrive\Desktop\Fish Store Simulator\FishStore Simulator\FishStore Simulator\bin\Debug\netcoreapp2.1\FishStore Simulator.runtimeconfig.json
+C:\Users\aka18\OneDrive\Desktop\Fish Store Simulator\FishStore Simulator\FishStore Simulator\bin\Debug\netcoreapp2.1\FishStore Simulator.runtimeconfig.dev.json
+C:\Users\aka18\OneDrive\Desktop\Fish Store Simulator\FishStore Simulator\FishStore Simulator\bin\Debug\netcoreapp2.1\FishStore Simulator.dll
+C:\Users\aka18\OneDrive\Desktop\Fish Store Simulator\FishStore Simulator\FishStore Simulator\bin\Debug\netcoreapp2.1\FishStore Simulator.pdb
+C:\Users\aka18\OneDrive\Desktop\Fish Store Simulator\FishStore Simulator\FishStore Simulator\obj\Debug\netcoreapp2.1\FishStore Simulator.csprojAssemblyReference.cache
+C:\Users\aka18\OneDrive\Desktop\Fish Store Simulator\FishStore Simulator\FishStore Simulator\obj\Debug\netcoreapp2.1\FishStore Simulator.csproj.CoreCompileInputs.cache
+C:\Users\aka18\OneDrive\Desktop\Fish Store Simulator\FishStore Simulator\FishStore Simulator\obj\Debug\netcoreapp2.1\FishStore Simulator.AssemblyInfoInputs.cache
+C:\Users\aka18\OneDrive\Desktop\Fish Store Simulator\FishStore Simulator\FishStore Simulator\obj\Debug\netcoreapp2.1\FishStore Simulator.AssemblyInfo.cs
+C:\Users\aka18\OneDrive\Desktop\Fish Store Simulator\FishStore Simulator\FishStore Simulator\obj\Debug\netcoreapp2.1\FishStore Simulator.dll
+C:\Users\aka18\OneDrive\Desktop\Fish Store Simulator\FishStore Simulator\FishStore Simulator\obj\Debug\netcoreapp2.1\FishStore Simulator.pdb
